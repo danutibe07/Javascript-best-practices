@@ -1,8 +1,8 @@
 {
-  "name": "todolist",
+  "name": "Javscript-best-practices",
   "version": "1.0.0",
   "description": "",
-  "private": true, 
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danutibe07/To-Do-List.git"
+    "url": "git+https://github.com/danutibe07/Javscript-best-practices.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danutibe07/To-Do-List/issues"
+    "url": "https://github.com/danutibe07/Javscript-best-practices/issues"
   },
-  "homepage": "https://github.com/danutibe07/To-Do-List#readme",
+  "homepage": "https://github.com/danutibe07/Javscript-best-practices#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.3",
