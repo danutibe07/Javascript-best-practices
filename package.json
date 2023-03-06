@@ -2,10 +2,11 @@
   "name": "Javscript-best-practices",
   "version": "1.0.0",
   "description": "",
-  "private": true,
+  "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
+    "dev": "webpack --mode development",
     "build": "webpack"
   },
   "repository": {
